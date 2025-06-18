@@ -16,7 +16,8 @@ This is a repository to help all readers who are interested in transfer learning
 - **[2022]** A context-aware deconfounding autoencoder for robust prediction of personalized clinical drug response from cell-line compound screening  
   *Di He, Qiao Liu, You Wu & Lei Xie*  
   [Paper](https://www.nature.com/articles/s42256-022-00541-0)
-  [Code](https://doi.org/10.5281/zenodo.7027757)and(https://doi.org/10.24433/CO.4762159.v1)
+  [Code1](https://doi.org/10.5281/zenodo.7027757)
+  [Code2](https://doi.org/10.24433/CO.4762159.v1)
 
 ### 🔬 scDEAL
 
